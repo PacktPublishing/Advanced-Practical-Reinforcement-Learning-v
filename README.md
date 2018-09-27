@@ -28,7 +28,7 @@ Python and R
 ## Related Products
 * [Practical Reinforcement Learning - Agents and Environments [Video]](https://www.packtpub.com/big-data-and-business-intelligence/practical-reinforcement-learning-agents-and-environments-video)
 
-* [Hands - On Reinforcement Learning with Python [Video]]](https://www.packtpub.com/big-data-and-business-intelligence/hands-reinforcement-learning-python-video)
+* [Hands - On Reinforcement Learning with Python [Video]](https://www.packtpub.com/big-data-and-business-intelligence/hands-reinforcement-learning-python-video)
 
 * [Hands-On Reinforcement Learning with Python](https://www.packtpub.com/big-data-and-business-intelligence/hands-reinforcement-learning-python)
 
