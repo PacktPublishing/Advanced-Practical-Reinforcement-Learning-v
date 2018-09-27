@@ -22,7 +22,7 @@ To fully benefit from the coverage included in this course, you will need:<br/>
 This Course is aimed at Data Scientists and AI programmers who want to take their skills to the next level with Reinforcement Learning techniques. A basic understanding of machine learning concepts is required, as is experienced with neural networks.
 ### Technical Requirements
 This course has the following software requirements:<br/>
-Basic understanding of machine learning concepts
+Basic understanding of machine learning concepts<br/>
 Python and R
 
 ## Related Products
