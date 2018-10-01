@@ -3,7 +3,6 @@ This is the code repository for [Advanced Practical Reinforcement Learning [Vide
 ## About the Video Course
 Reinforcement learning (RL) is becoming popular and is used as a tool for constructing autonomous systems that improve themselves with experience. This video course will provide the viewer with advanced practical examples in R and Python. You will learn about Q-Learning, Deep Q-Learning, Double Deep Q-Learning, Reinforcement Learning in TensorFlow, and Reinforcement Learning in Keras. The practical example is provided throughout the course such as TensorFlow for RL with practical examples, Taxi Routes, with an in-depth exploration of Keras— a Practical example to help a car reach the hilltop.
 You will learn how to code convolutional neural networks for deep reinforcement learning, and how to use modern tools such as Google's TensorFlow and Keras. You will also be exposed to case studies related to reinforcement learning. By the end of the video course, you will able to take your machine learning skills to the next level with reinforcement learning techniques and you will have mastered programming the environment for Reinforcement Learning.
-All the code and supporting files for this course are available on GitHub at https://github.com/PacktPublishing/Advanced-Practical-Reinforcement-Learning-v
 
 <H2>What You Will Learn</H2>
 <DIV class=book-info-will-learn-text>
